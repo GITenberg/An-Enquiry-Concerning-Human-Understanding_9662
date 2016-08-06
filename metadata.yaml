@@ -1,0 +1,61 @@
+_repo: An-Enquiry-Concerning-Human-Understanding_9662
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+  editor:
+    agent_name: Selby-Bigge, L. A. (Lewis Amherst), Sir
+    alias: Selby-Bigge, Lewis Amherst, Sir
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '3125'
+    url: http://www.gutenberg.org/2009/agents/3125
+description: "An Enquiry Concerning Human Understanding is a book by the Scottish\
+  \ empiricist philosopher David Hume, published in English in 1748. It was a revision\
+  \ of an earlier effort, Hume's A Treatise of Human Nature, published anonymously\
+  \ in London in 1739–40. Hume was disappointed with the reception of the Treatise,\
+  \ which \"fell dead-born from the press,\" as he put it, and so tried again to disseminate\
+  \ his more developed ideas to the public by writing a shorter and more polemical\
+  \ work.\nThe end product of his labours was the Enquiry. The Enquiry dispensed with\
+  \ much of the material from the Treatise, in favor of clarifying and emphasizing\
+  \ its most important aspects. For example, Hume's views on personal identity do\
+  \ not appear. However, more vital propositions, such as Hume's argument for the\
+  \ role of habit in a theory of knowledge, are retained.\nThis book has proven highly\
+  \ influential, both in the years that would immediately follow and today. Immanuel\
+  \ Kant points to it as the book which woke him from his self-described \"dogmatic\
+  \ slumber\". The Enquiry is widely regarded as a classic in modern philosophical\
+  \ literature.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Philosophy
+- Harvard Classics
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9662'
+  wikidata: Q1306656
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Ethics'
+- !lcc 'B'
+- GITenberg
+title: An Enquiry Concerning Human Understanding
+url: http://www.gutenberg.org/ebooks/9662
+wikipedia:
+- https://fi.wikipedia.org/wiki/Tutkimus_inhimillisest%C3%A4_ymm%C3%A4rryksest%C3%A4
+- https://fr.wikipedia.org/wiki/Enqu%C3%AAte_sur_l%27entendement_humain
+- https://pt.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding
+- https://en.wikiquote.org/wiki/An_Enquiry_Concerning_Human_Understanding
+- https://de.wikipedia.org/wiki/Eine_Untersuchung_%C3%BCber_den_menschlichen_Verstand
+- https://es.wikipedia.org/wiki/Investigaci%C3%B3n_sobre_el_entendimiento_humano
+- https://lv.wikipedia.org/wiki/P%C4%93t%C4%ABjums_par_cilv%C4%93ka_sapratni
+- https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding
+- https://is.wikipedia.org/wiki/Ranns%C3%B3kn_%C3%A1_skilningsg%C3%A1funni
