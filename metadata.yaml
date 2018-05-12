@@ -1,5 +1,8 @@
 _repo: An-Enquiry-Concerning-Human-Understanding_9662
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hume, David
@@ -30,6 +33,8 @@ description: "An Enquiry Concerning Human Understanding is a book by the Scottis
   \ Kant points to it as the book which woke him from his self-described \"dogmatic\
   \ slumber\". The Enquiry is widely regarded as a classic in modern philosophical\
   \ literature.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9662#An-Enquiry-Concerning-Human-Understanding
 gutenberg_bookshelf:
 - Philosophy
 - Harvard Classics
